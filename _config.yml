@@ -30,7 +30,9 @@ twitter_username: DMargerit
 github_username:  danielmargerit
 
 # Build settings
-theme: minima
+#theme: minima
+theme: minimal-mistakes-jekyll
+
 plugins:
   - jekyll-feed
 
