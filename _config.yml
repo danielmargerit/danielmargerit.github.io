@@ -173,6 +173,10 @@ defaults:
       share: true
       related: true
 
+# Build settings
+markdown: kramdown
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 # Plugins
 plugins:
   - jekyll-paginate
@@ -180,6 +184,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
