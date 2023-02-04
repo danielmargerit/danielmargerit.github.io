@@ -1,0 +1,14 @@
+# main links links
+main:
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Publications"
+    url: /publications/
+ 
+  - title: "Research"
+    url: /research/
+
+  - title: "Post"
+    url: /posts/
