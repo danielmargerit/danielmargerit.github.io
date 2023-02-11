@@ -1,14 +1,31 @@
 # main links links
 main:
 
-  - title: "Projects"
-    url: /projects/
 
-  - title: "Publications"
-    url: /publications/
- 
   - title: "Research"
     url: /research/
 
-  - title: "Post"
-    url: /posts/
+  - title: "Papers"
+    url: /papers/
+    
+  - title: "Enseignements"
+    url: /enseignements/
+
+  - title: "Software"
+    url: /softwares/
+    
+  - title: "Topics"
+    url: /topics/
+    
+  - title: "Blog"
+    url: /blog/
+
+  - title: "Activité"
+    url: /activity/
+
+  - title: "J'admire"
+    url: /like/
+    
+  - title: "CV"
+    url: /cv/
+    
