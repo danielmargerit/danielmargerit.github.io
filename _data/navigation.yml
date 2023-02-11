@@ -19,6 +19,9 @@ main:
     
   - title: "Blog"
     url: /blog/
+    
+  - title: "Tweets"
+    url: /tweets/
 
   - title: "Activité"
     url: /activity/
