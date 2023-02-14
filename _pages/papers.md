@@ -46,34 +46,9 @@ You can see my ResearchGate page [here](https://www.researchgate.net/profile/Dan
     [pdf_to_be_added]({{site.baseurl}}/docs/xx.pdf))
 
 
-## PhD thesis
+## Manuscripts
 - **D. Margerit**, *Dynamique et mouvement des filaments et des anneaux tourbillons de faible épaisseur*, Thèse de doctorat de troisième cycle à l'INPL de Nancy, 6 Nov. 1997 
-{% assign OSG_link = "https://www.researchgate.net/scientific-contributions/Olivier-Sero-Guillaume-2120731324" %}
-{% assign RK_link = "https://www.researchgate.net/scientific-contributions/Rupert-Klein-2056791362" %}
-{% assign AV_link = "https://verga.cpt.univ-mrs.fr/pages/about.html" %}
-{% assign MR_link = "http://www.lmm.jussieu.fr/~rossi/" %}
-{% assign JPB_link = "http://jpbrancher.free.fr/index.php/2007/07/19/6-dynamique-des-fluides" %}
-
-| Jury              | Nom                | Affiliation                                     |
-| --------         | ------ | ------------------------------------------------------------ |
-| Président     | [Olivier SERO-GUILLAUME]({{OSG_link}})   | Directeur de recherche, LEMTA-CNRS, INPL,Nancy  |
-| Rapporteur    | [Rupert KLEIN]({{RK_link}})            | Professeur. Dr-Ing., BUGH Wuppertal, Germany    |
-| Rapporteur    | [Alberto VERGA]({{AV_link}})            | Directeur de recherche, IRPHE-CNRS, Marseille   |
-| Examinateur   | [Maurice ROSSI]({{MR_link}})            | Chargé de recherche, LMM-CNRS, Jussieu, Paris   |
-| Directeur     | [Jean-Pierre BRANCHER]({{JPB_link}})       | Professeur , ENSEM-INPL, Nancy                  |
-
-## Master 2
 - **D. Margerit**, *Une étude d'un anneau de vorticité par Développement  Asymptotique Raccordé*,  DEA  Mécanique et énergétique à l'INPL Nancy , Sep. 1993
-{% assign PH_link = "https://www.ladhyx.polytechnique.fr/fr/pageperso/patrick-huerre/" %}
-{% assign JMC_link = "http://www.off-ladhyx.polytechnique.fr/people/jmarc/" %}
-{% assign OP_link = "https://iusti.cnrs.fr/opouliquen/" %}
-
-| Jury              | Nom                | Affiliation                                     |
-| --------         | ------ | ------------------------------------------------------------ |
-| Président     | [Jean-Pierre BRANCHER]({{JPB_link}})         | Professeur , ENSEM-INPL, Nancy  |
-| Membre    | [Patrick HUERRE]({{PH_link}})            | Professeur, Ecole Polytechnique, Palaiseau    |
-| Membre    | [Jean-Marc CHOMAZ]({{JMC_link}})            | Directeur de recherche, LadHyX, Palaiseau   |
-| Membre   | [Olivier POULIQUEN]({{OP_link}})            | Chargé de recherche, LMM-CNRS, Jussieu, Paris   |
 
 ## Review of papers
 - I have been one of the tree referees of a paper subitted to Journal of Fluid Mechanics
@@ -125,6 +100,7 @@ Gamm (Gesellschaft fur Angewandte Mathematik und Mechanik) Annual Meeting 2000, 
 - First C-Wake progress meeting, Bremen, June 2000
 - C-Wake kick off meeting, Toulouse, 21 Jan. 2000
 
-## MdC Dossier
+
+<!--- ## MdC Dossier -->
 
 ## Unpublished work

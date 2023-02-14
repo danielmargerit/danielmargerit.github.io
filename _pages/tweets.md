@@ -9,5 +9,5 @@ header:
 
 
 <p style="text-align:center">
-<a class="twitter-timeline" data-height="800" data-width="500" data-theme="dark" href="https://twitter.com/https://twitter.com/DMargerit?ref_src=twsrc%5Etfw">Tweets Re-tweets @DMargerit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<a class="twitter-timeline" data-height="800" data-width="500" data-theme="dark" href="https://twitter.com/https://twitter.com/DMargerit?ref_src=twsrc%5Etfw">Please Wait ... Tweets Re-tweets @DMargerit</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <p/>

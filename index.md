@@ -7,12 +7,15 @@ header:
   overlay_filter: 0 # same as adding an opacity of 0.5 to a black background
   exceprt: "                                                                               "                                                          
   og_image: ../images/nuage_mots.jpg
+
 ---
+**Page en cours de construction**
 
 I'm a xxx
 
 ## Bio
 
 I xxx
+
 
 
