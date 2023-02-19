@@ -18,7 +18,7 @@ You can see my ResearchGate page [here](https://www.researchgate.net/profile/Dan
 - **D. Margerit**, P. Brancher, A. Giovannini, *Implementation and validation of a slender vortex filament code: Its application to the study of a four-vortex wake model*, 
      Int. J. for Numerical Methods in Fluids, Volume44, Issue 2, p. 175-196, 2003
    ([doi]( https://doi.org/10.1002/fld.634),
-    [pdf]({{site.baseurl}}/docs/crowdaniel.pdf))
+    [pdf]({{site.baseurl}}/docs/crowdaniel.pdf),[EZ-Vortex code](https://github.com/danielmargerit/ezvortex))
     <!---https://core.ac.uk/download/pdf/185271168.pdf -->
 - **D. Margerit**, *Axial core-variation of axisymmetric shape on a curved slender vortex filament with a Batchelor, Rankine, or Bubble core*, 
     Phys. of Fluids 14, 4406, 2002
