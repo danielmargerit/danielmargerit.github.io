@@ -18,37 +18,42 @@ You can see my ResearchGate page [here](https://www.researchgate.net/profile/Dan
 - **D. Margerit**, P. Brancher, A. Giovannini, *Implementation and validation of a slender vortex filament code: Its application to the study of a four-vortex wake model*, 
      Int. J. for Numerical Methods in Fluids, Volume44, Issue 2, p. 175-196, 2003
    ([doi]( https://doi.org/10.1002/fld.634),
-    [pdf_to_be_added]({{site.baseurl}}/docs/xx.pdf))
+    [pdf]({{site.baseurl}}/docs/crowdaniel.pdf))
     <!---https://core.ac.uk/download/pdf/185271168.pdf -->
 - **D. Margerit**, *Axial core-variation of axisymmetric shape on a curved slender vortex filament with a Batchelor, Rankine, or Bubble core*, 
     Phys. of Fluids 14, 4406, 2002
    ([doi](https://doi.org/10.1063/1.1516210),
-    [pdf_to_be_added]({{site.baseurl}}/docs/xx.pdf))
+    [pdf]({{site.baseurl}}/docs/pof.pdf))
 - **D. Margerit**, J-P. Brancher, *Asymptotic Expansions of the Biot-Savart law for a slender vortex with core variation*, Journal of Engineering Mathematics, 40 (3), p. 297-313, 2001
    ([doi](https://doi.org/10.1023/A:1017598528328),
-    [pdf_to_be_added]({{site.baseurl}}/docs/xx.pdf))
+    [pdf]({{site.baseurl}}/docs/biotnn.pdf))
 - **D. Margerit**, J-P. Brancher, *Motion and oscillations of a circular perturbed vortex ring*, C. R. Acad. Sci. Paris, Série II b, t. 328, p. 393-398, 2000
    ([doi]( 
 10.1016/S1620-7742(00)00046-5),
-    [pdf_to_be_added]({{site.baseurl}}/docs/xx.pdf))
-
+    [pdf]({{site.baseurl}}/docs/Motion_and_oscillations_of_a_circular.pdf))
+- **D. Margerit**, J-P. Brancher, *The Complete First Order Expansion of a Slender Vortex Ring*, IUTAM Symposium on Dynamics of Slender Vortices pp 45–53, held in Aachen, Germany, 31 August – 3 September 1997
+   ([doi]( 
+10.1007/978-94-011-5042-2_4),
+    [pdf]({{site.baseurl}}/docs/iutam_slender_vortex_dm.pdf))
 
 ### Excitable media
 <!--- https://warwick.ac.uk/fac/sci/maths/people/staff/dwight_barkley/home_page/  -->
 - **D. Margerit**, D. Barkley, *Cookbook Asymptotics for Spiral and Scroll Waves in Excitable Media*, Chaos 12, 636-649, 2002
    ([doi](https://doi.org/10.1063/1.1494875),
-    [pdf_to_be_added]({{site.baseurl}}/docs/xx.pdf))
+    [pdf]({{site.baseurl}}/docs/chaos.pdf))
 - **D. Margerit**, D. Barkley, *Large-Excitability Asymptotics for Scroll Waves in Three-Dimensional Excitable Media*, Phys. Rev. E 66, 036214, 2002
    ([doi](https://doi.org/10.1103/PhysRevE.66.036214),
-    [pdf_to_be_added]({{site.baseurl}}/docs/xx.pdf))
+    [pdf]({{site.baseurl}}/docs/pre.pdf))
 - **D. Margerit**, D. Barkley, *Selection of twisted scroll waves in three-dimensional excitable media*, Phys. Rev. Lett. 86, 175-178, 2001
    ([doi](https://doi.org/10.1103/physrevlett.86.175),
-    [pdf_to_be_added]({{site.baseurl}}/docs/xx.pdf))
+    [pdf]({{site.baseurl}}/docs/prl.pdf))
 
 
 ## Manuscripts
-- **D. Margerit**, *Dynamique et mouvement des filaments et des anneaux tourbillons de faible épaisseur*, Thèse de doctorat de troisième cycle à l'INPL de Nancy, 6 Nov. 1997 
-- **D. Margerit**, *Une étude d'un anneau de vorticité par Développement  Asymptotique Raccordé*,  DEA  Mécanique et énergétique à l'INPL Nancy , Sep. 1993
+- **D. Margerit**, *Dynamique et mouvement des filaments et des anneaux tourbillons de faible épaisseur*, Thèse de doctorat de troisième cycle à l'INPL de Nancy, 6 Nov. 1997, 
+([pdf1]({{site.baseurl}}/docs/PhDThesis_D.Margerit_1997INPL132N.pdf),[pdf2]({{site.baseurl}}/docs/INPL_T_1997_MARGERIT_D.pdf))
+- **D. Margerit**, *Une étude d'un anneau de vorticité par Développement  Asymptotique Raccordé*,  DEA  Mécanique et énergétique à l'INPL Nancy , Sep. 1993,
+([pdf_to_be_added]({{site.baseurl}}/docs/xxx.pdf))
 
 ## Review of papers
 - I have been one of the tree referees of a paper subitted to Journal of Fluid Mechanics
@@ -65,7 +70,8 @@ Gamm (Gesellschaft fur Angewandte Mathematik und Mechanik) Annual Meeting 2000, 
 - **D. Margerit**, *Champ de vitesse d'un anneau tourbillon de faible épaisseur et de champ de vorticité connu*, 14ième congrès français de mécanique, Toulouse sep. 99, p.1-6, 1999
 - **D. Margerit**, J-P. Brancher, *The Different equations of motion of the central line of a slender Vortex Filament and their use to the study of perturbed vortices*, 
     Third International Workshop on Vortex Flows and Related Numerical Methods, Toulouse, France, August 24-27,1998, electronic volume of ESIAM 
-   (European Series in Applied and Industrial Mathematics),p. 1-10, 1999
+   (European Series in Applied and Industrial Mathematics),p. 1-10, 1999, (
+    [pdf]({{site.baseurl}}/docs/margerit_esaim_1999.pdf))
 - **D. Margerit**, *The complete first order expansion of a slender vortex ring*, IUTAM-Symposium on Dynamics of Slender Vortices, Aachen 31 août-3 sept 97, Kluwer Academic Publishers, p. 45-54, 1998
 - **D. Margerit**, J-P. Brancher, *Les oscillations d'un anneau tourbillon*, 13ième congrès français de mécanique, Poitier 1-5 sept. 97, Vol. 1, p.81-84, 1997
 
@@ -91,10 +97,15 @@ Gamm (Gesellschaft fur Angewandte Mathematik und Mechanik) Annual Meeting 2000, 
 - *Mouvement, stabilité et ondes sur un filament tourbillon en configuration fermée (anneau) ou ouverte (ligne, hélice...)*, Ladhyx, 4 octobre 1995
 - *Une étude d'un anneau de vorticité par Développement Asymptotique Raccordé*, séminaire et soutenance du DEA de mécanique et d'énergétique de Nancy au Ladhyx, septembre 1993
 
+## Job presentations
+- Candidature au poste MCf, Mécanique des fluides, 20xx, 
+([pdf]({{site.baseurl}}/docs/audition_mdc.pdf))
+
 ## Meetings in C-WAKE European PCRD research project
-- A. Giovannini, **D. Margerit**, P. Brancher : *Validation of a 3D Particle Method in the context of Vortex Dynamics and Interaction studies*, talk at Euromech 433 (Dynamics of Trailing Vortices), 20-22 Mars, 2002
-- **D. Margerit**, P. Brancher and A. Giovannini, *Application of a slender vortex filament code to the study of a four-vortex wake model*, talk at Euromech 433 (Dynamics of Trailing Vortices), 20-22 Mars, 2002 
-- **D. Margerit**, P. Brancher, A. Giovannini, *Effects of simple generic configuration on near to far field wake by using 3D vortex filament method*, C-Wake partner report UPS-PR 2.2.3-2, March 2002
+- A. Giovannini, **D. Margerit**, P. Brancher : *Validation of a 3D Particle Method in the context of Vortex Dynamics and Interaction studies*, talk at Euromech 433 (Dynamics of Trailing Vortices, Aachen), 20-22 Mars, 2002
+- **D. Margerit**, P. Brancher and A. Giovannini, *Application of a slender vortex filament code to the study of a four-vortex wake model*, talk at Euromech 433 (Dynamics of Trailing Vortices, Aachen), 20-22 Mars, 2002, 
+([abstract in pdf]({{site.baseurl}}/docs/mbg_Euromech 433-abstract.pdf)) 
+- **D. Margerit**, P. Brancher, A. Giovannini, *Effects of simple generic configuration on near to far field wake by using 3D vortex filament method*, C-Wake partner report UPS-PR 2.2.3-2, March 2002, ([pdf]({{site.baseurl}}/docs/CWreport1.pdf))
 - Second C-Wake annual review meeting, Prague, 19-21 Feb. 2002
 - First C-Wake annual review meeting, Athen, 13-14 Feb. 2001
 - First C-Wake progress meeting, Bremen, June 2000
