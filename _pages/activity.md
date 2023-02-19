@@ -8,7 +8,12 @@ header:
 ---
 **Page en cours de construction**
 
-- Enigmes pour maths en scène
-- Participation à Eloquenscience
-- Vie d’un lutin mathématiciens
+- Enigmes pour l'association [Les Maths en Scène](https://lesmathsenscene.fr/): Calendrier de l'Avent et La Chasse aux Trésors, [voir sur cette page](../_pages/like.md#les-maths-en-scène)
+- Participation au concours [EloquenSciences](https://lesmathsenscene.fr/concours/eloquensciences/) 
+de l'association [Les Maths en Scène](https://lesmathsenscene.fr/) comme parrain scientifique (suivi d'élèves)
+- Article:
+	- *Quand deux mascottes fans de maths attendent impatiemment le festival les Maths en Scènes*, 2022, sur le site de l'association Les Maths en scène, 
+	[ici](https://lesmathsenscene.fr/2022/construire-une-culture-mathematique-commune-classe-de-cm1-cm2-de-millay/)
+
+
 <!--- Publication de vulgarisation (à venir)  -->
