@@ -8,7 +8,7 @@ header:
 ---
 **Page en cours de construction**
 
-- Enigmes pour l'association [Les Maths en Scène](https://lesmathsenscene.fr/): Calendrier de l'Avent et La Chasse aux Trésors, [voir sur cette page](../_pages/like.md#les-maths-en-scène)
+- Participation aux énigmes mathématiques pour l'association [Les Maths en Scène](https://lesmathsenscene.fr/) : Les Calendriers de l'Avent et Les Chasses aux Trésors ([voir sur cette page](../_pages/like.md#les-maths-en-scène))
 - Participation au concours [EloquenSciences](https://lesmathsenscene.fr/concours/eloquensciences/) 
 de l'association [Les Maths en Scène](https://lesmathsenscene.fr/) comme parrain scientifique (suivi d'élèves)
 - Article:
