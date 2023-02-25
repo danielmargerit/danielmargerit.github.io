@@ -18,7 +18,7 @@ You can see my ResearchGate page [here](https://www.researchgate.net/profile/Dan
 - **D. Margerit**, P. Brancher, A. Giovannini, *Implementation and validation of a slender vortex filament code: Its application to the study of a four-vortex wake model*, 
      Int. J. for Numerical Methods in Fluids, Volume44, Issue 2, p. 175-196, 2003
    ([doi]( https://doi.org/10.1002/fld.634),
-    [pdf]({{site.baseurl}}/docs/crowdaniel.pdf),[EZ-Vortex code](https://github.com/danielmargerit/ezvortex))
+    [pdf]({{site.baseurl}}/docs/crowdaniel.pdf), [EZ-Vortex code](https://github.com/danielmargerit/ezvortex))
     <!---https://core.ac.uk/download/pdf/185271168.pdf -->
 - **D. Margerit**, *Axial core-variation of axisymmetric shape on a curved slender vortex filament with a Batchelor, Rankine, or Bubble core*, 
     Phys. of Fluids 14, 4406, 2002
@@ -80,26 +80,28 @@ Gamm (Gesellschaft fur Angewandte Mathematik und Mechanik) Annual Meeting 2000, 
 
 ## Talks
 - *Etude asymptotique et numérique du mouvement des filaments tourbillons courbes. Application à l'étude des sillages d'avions*, SINUMEF, Paris, juin 2001
-- *Sélection des ondes spirales twistées  des milieux excitables tridimensionnels*, LEMTA, Nancy, 19 avril 2001
-- *Sélection des ondes spirales twistées  des milieux excitables tridimensionnels*, MIP, Toulouse, 20 Mars 2001
-- *Sélection des ondes spirales twistées  des milieux excitables tridimensionnels*, LMM, Paris, 06 Mars 2001 
-- *Sélection des ondes spirales twistées  des milieux excitables tridimensionnels*, IMFT, Toulouse, 02 Mars 2001
-- *Sélection des ondes spirales twistées  des milieux excitables tridimensionnels*, MAB, Bordeaux, 01 Mars 2001
-- *Développements asymptotiques de la loi de Biot et Savart. Mouvement des filaments tourbillons courbes*, MAB, Bordeaux, 01 mars 2001
-- *Développements asymptotiques de la loi de Biot et Savart. Mouvement des filaments tourbillons courbes*, IMFT, Toulouse, 23 fev. 2001
-- *Sélection des ondes spirales twistées  des milieux excitables tridimensionnels*, MAPLY, Lyon, 20 Juin 2000
+- *Sélection des ondes spirales twistées  des milieux excitables tridimensionnels*, 
+[MAPLY, Lyon, 20 Juin 2000],
+[MAB, Bordeaux, 01 Mars 2001], 
+[IMFT, Toulouse, 02 Mars 2001], 
+[LMM, Paris, 06 Mars 2001], 
+[MIP, Toulouse, 20 Mars 2001], 
+[LEMTA, Nancy, 19 avril 2001] 
+- *Développements asymptotiques de la loi de Biot et Savart. Mouvement des filaments tourbillons courbes*, 
+[IMFT, Toulouse, 23 fev. 2001], 
+[MAB, Bordeaux, 01 mars 2001]
 - *Expansion of the Biot-Savart law applied to a curved slender vortex filament with axial variation*, DAMTP, University of Cambridge, 2 Fev. 2000
 - *Singular perturbation equations for three dimensional Excitable Media*, TUXEDO meeting, Warwick University, 7 June 1999
 - *Vortex dynamics and Motion of vortex filament*, réunion hebdomadaire du groupe turbulence de A. C. Newell, Warwick Mathematics Institute, fev. 1999
-- *Evolution et dynamique d'un filament tourbillon*, LMM, 26 nov. 1996
-- *Evolution et dynamique d'un filament tourbillon*, ESPCI/PMMH, 14 juin 1996
-- *Evolution et dynamique d'un filament tourbillon*, IRPHE, 2 mai 1996
+- *Evolution et dynamique d'un filament tourbillon*, 
+[IRPHE, 2 mai 1996], 
+[ESPCI/PMMH, 14 juin 1996], 
+[LMM, 26 nov. 1996]
 - *Mouvement, stabilité et ondes sur un filament tourbillon en configuration fermée (anneau) ou ouverte (ligne, hélice...)*, Ladhyx, 4 octobre 1995
 - *Une étude d'un anneau de vorticité par Développement Asymptotique Raccordé*, séminaire et soutenance du DEA de mécanique et d'énergétique de Nancy au Ladhyx, septembre 1993
 
-## Job presentations
-- Candidature au poste MCf, Mécanique des fluides, 20xx, 
-([pdf]({{site.baseurl}}/docs/audition_mdc.pdf))
+## Other presentation of my research and teaching activities
+- Candidature au poste MCf, Mécanique des fluides, 2004, ([pdf]({{site.baseurl}}/docs/audition_mdc.pdf))
 
 ## Meetings in C-WAKE European PCRD research project
 - A. Giovannini, **D. Margerit**, P. Brancher : *Validation of a 3D Particle Method in the context of Vortex Dynamics and Interaction studies*, talk at Euromech 433 (Dynamics of Trailing Vortices, Aachen), 20-22 Mars, 2002
