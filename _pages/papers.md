@@ -156,6 +156,6 @@ Gamm (Gesellschaft fur Angewandte Mathematik und Mechanik) Annual Meeting 2000, 
 <!--- ## MdC Dossier -->
 
 ## Other documents (written when being a young student)
-- Changement quelconque de référentiel en Mécanique des Milieux Continus, [notes de calculs]({{site.baseurl}}/docs/other/Chgt_ref-1.pdf.pdf)
-- Changement de repère mobile, [notes de calculs]({{site.baseurl}}/docs/other/Chgt_ref-2.pdf.pdf)
-- Champ de vitesse d'un filament tourbillon proche de la fibre, [notes de calculs]({{site.baseurl}}/docs/other/Filament_Dev_Ext_near_0.pdf)
+- Changement quelconque de référentiel en Mécanique des Milieux Continus, [note]({{site.baseurl}}/docs/other/Chgt_ref-1.pdf.pdf)
+- Changement de repère mobile, [note]({{site.baseurl}}/docs/other/Chgt_ref-2.pdf.pdf)
+- Champ de vitesse d'un filament tourbillon proche de la fibre, [note de calculs]({{site.baseurl}}/docs/other/Filament_Dev_Ext_near_0.pdf)
