@@ -12,11 +12,7 @@ header:
 The [EZ-Vortex](https://github.com/danielmargerit/ezvortex) code is a Slender Vortex Filament solver written in C.
 
 
-# Code Vortex en fortran
-
-# Code avec méthode spectral
-
-# Programmes du Cnam 
+# Programmes cours du Cnam 
 
 # Python notebooks
 

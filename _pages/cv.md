@@ -9,8 +9,6 @@ header:
 
 <!--- Linkedin link to be added -->
 
-**Page en cours de construction**
-
 
 ## Industrial/Engineer jobs
 
@@ -32,17 +30,17 @@ header:
 
 ## Academic or Research Jobs
 - Mars 2000 - Mars 2002 : 
-	- Postdoc à l'Institut de Mécanique des Fluides de Toulouse dans le groupe écoulements Monophasiques Transitionnels et Turbulents avec le Pr A. **Giovannini**et P. **Brancher**\\
+	- Postdoc à l'Institut de Mécanique des Fluides de Toulouse dans le groupe écoulements Monophasiques Transitionnels et Turbulents avec le Pr A. Giovannini et [P. Brancher](http://pierre.brancher.free.fr/Professional/home.html)
 	- Sujet : *Far wake behind Aicraft : numerical simulations with vortex filament method*
 - Sep. 1999 - Mars 2000: Research Fellow à l'Institut de Mathématique de l'Université de Warwick (UK)
 - Nov. 1998 -Sep. 1999 :
-	- Postdoc à l'Institut de Mathématique de l'Université de Warwick (UK) avec le Pr  D. Barkley
+	- Postdoc à l'Institut de Mathématique de l'Université de Warwick (UK) avec le Pr [D. Barkley](https://warwick.ac.uk/fac/sci/maths/people/staff/dwight_barkley/home_page/)
 	- Sujet : *Asymptotic (perturbation methods) and Large-scale Numerical study of scroll filaments in 3-d excitable media*
 - Nov. 1997 - Oct. 1998 : 1/2 ATER  mécanique des fluides et numérique à l'ENSEM (Ecole Nationale Supérieur d'Electricité et de Mécanique de Nancy)
 
 ## Certificate 
-- De 19xx à 200xx : Qualification en section mécanique 60
-- De 19xx à 200xx : Qualification en section mathématiques 26
+- De 1998 à 2002 puis de 2002 à 2006 : Qualification en section 60 (Mécanique, génie mécanique, génie civil)
+- De 2002 à 2006 : Qualification en section 26 (Mathématiques appliquées et application de mathématiques)
 - Prix de thèse de l'INPL 1998
 
 ## Education

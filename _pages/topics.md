@@ -13,3 +13,4 @@ header:
 - Informatique
 - Data Science
 - L’enseignement
+- Clubs de math et Enigmes mathématqiues
