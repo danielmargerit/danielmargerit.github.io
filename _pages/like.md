@@ -166,7 +166,7 @@ header:
 ## Enigmes math
 - [calendrier math](https://www.pug.fr/produit/2000/9782706151781/calendrier-mathematique-2023)
 - [daily epsilon](https://dailyepsilon.com/2022calendar.php)
-- [OpenMiddle](https://www.fsjm.ch/fr/competitions/owmc/)
+- [OpenMiddle](https://www.openmiddle.com/fr/accueil/), [Qu’est-ce qu’un Open Middle?](https://cybersavoir.cssdm.gouv.qc.ca/mat-sec/open-middle/)
 - [Codingame](https://www.codingame.com/start)
 - Les activités "énigmes mathématiques" de l'association [Les Maths en Scène](https://lesmathsenscene.fr/) organisées par [Arnaud Chéritat](https://www.math.univ-toulouse.fr/~cheritat/):
 	- Les calendriers de l'avent
