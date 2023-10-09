@@ -10,6 +10,7 @@ header:
 ## Associations
 
 - [Les Maths en Scène](https://lesmathsenscene.fr/)
+- Le cercle Sofia Kovalevskaïa (SCK) sur Toulouse : [site](https://perso.math.univ-toulouse.fr/csk/), [inscription liste de diffusion](https://sympa.math.ups-tlse.fr/wws/subscribe/csk)
 - [Maison des Mathématiques et de L'Informatique](https://mmi-lyon.fr/)
 - [Animath](https://www.animath.fr/), [Parlons Maths](https://parlons-maths.fr/#presentation)
 - [CIJM](https://www.cijm.org/)
@@ -169,16 +170,11 @@ header:
 - [OpenMiddle](https://www.openmiddle.com/fr/accueil/), [Qu’est-ce qu’un Open Middle?](https://cybersavoir.cssdm.gouv.qc.ca/mat-sec/open-middle/)
 - [Codingame](https://www.codingame.com/start)
 - Les activités "énigmes mathématiques" de l'association [Les Maths en Scène](https://lesmathsenscene.fr/) organisées par [Arnaud Chéritat](https://www.math.univ-toulouse.fr/~cheritat/):
-	- Les calendriers de l'avent
-		- [2022](https://jeux.lesmathsenscene.fr/avent-2022/) : Il y a 72 énigmes et 24 surprises pour ceux qui aiment les défis mathématiques.
-		- [2021](https://jeux.lesmathsenscene.fr/avent-2021/)
-		- [2020](https://jeux.lesmathsenscene.fr/avent-2020/)
-		- Remarque importante : Les calendriers **restent actifs** même après le 24 décembre avec toutes les énigmes disponibles. 
-		Alors laisse toi prendre au jeu et à ton rythme, saisi toi de certaines énigmes : leur résolution t’apportera satisfaction et la lecture de certaines solutions te surprendra. Grisé par tes premières réussites (il faut être persévérant car le plaisir de la réussite se mérite) 
-		laisse toi tenter comme certain par faire le grand Chelem : par exemples les 24 (ou même 72) énigmes de l’édition 2022.
-	 - Les chasses au trésor
-		- [2022](https://chasse-aux-tresors-2022.jeux.lesmathsenscene.fr/)
-		- [2021](https://chasse-aux-tresors-2021.jeux.lesmathsenscene.fr/)
+	- [Les calendriers de l'avent et les chasses au trésor](https://lesmathsenscene.fr/ressources/math-et-jeux/enigme/)
+	- Remarque importante : Les calendriers **restent actifs** même après le 24 décembre avec toutes les énigmes disponibles. 
+	Alors laisse toi prendre au jeu et à ton rythme, saisi toi de certaines énigmes : leur résolution t’apportera satisfaction et la lecture de certaines solutions te surprendra. Grisé par tes premières réussites (il faut être persévérant car le plaisir de la réussite se mérite) 
+	laisse toi tenter comme certain par faire le grand Chelem : par exemples les 24 (ou même 72) énigmes de l’édition 2022.
+
 
 ## Construire:
 - origami : [origami day](https://www.origami-day.fr/),[Origami simulator](https://origamisimulator.org/), [Maths de l'origami](https://dms.umontreal.ca/~rousseac/Origami.pdf)
