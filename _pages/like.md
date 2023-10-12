@@ -237,8 +237,3 @@ header:
 - [eu maths](https://jobs.eu-maths-in.eu/jobs)
 - [ems](https://euromathsoc.org/jobs)
 
-
-
-
-
-
