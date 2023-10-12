@@ -10,7 +10,7 @@ header:
 ## Associations
 
 - [Les Maths en Scène](https://lesmathsenscene.fr/)
-- Le cercle Sofia Kovalevskaïa (SCK) sur Toulouse : [site](https://perso.math.univ-toulouse.fr/csk/), [inscription liste de diffusion](https://sympa.math.ups-tlse.fr/wws/subscribe/csk)
+- Le Cercle Sofia Kovalevskaïa (CSK) sur Toulouse : [site](https://perso.math.univ-toulouse.fr/csk/), [inscription liste de diffusion](https://sympa.math.ups-tlse.fr/wws/subscribe/csk)
 - [Maison des Mathématiques et de L'Informatique](https://mmi-lyon.fr/)
 - [Animath](https://www.animath.fr/), [Parlons Maths](https://parlons-maths.fr/#presentation)
 - [CIJM](https://www.cijm.org/)
