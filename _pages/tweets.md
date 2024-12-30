@@ -14,3 +14,11 @@ header:
   </a> 
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
+
+<p style="text-align:center">
+<iframe src="https://bsky.app/profile/danielmargerit.bsky.social" style="width:100%; height:800px; border:none;">
+  Votre navigateur ne prend pas en charge les iframes. Consultez mon profil sur <a href="https://bsky.app/profile/danielmargerit.bsky.social" target="_blank">Bluesky</a>.
+</iframe>
+</p>
+
+<iframe src="https://mathstodon.xyz/@danielmargerit/embed" style="border: none; width: 100%; height: 600px;"></iframe>
