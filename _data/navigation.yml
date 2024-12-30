@@ -16,9 +16,6 @@ main:
   - title: "J'admire"
     url: /like/
     
-  - title: "Tweets"
-    url: /tweets/
-    
   - title: "Software"
     url: /softwares/
 
