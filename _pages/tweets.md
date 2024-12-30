@@ -7,6 +7,8 @@ header:
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 
+<iframe src="https://mathstodon.xyz/@danielmargerit/embed" style="border: none; width: 100%; height: 600px;"></iframe>
+
 
 <p style="text-align:center">
   <a class="twitter-timeline" data-height="800" data-width="500" data-theme="dark" href="https://x.com/DMargerit?ref_src=twsrc%5Etfw">
@@ -21,4 +23,3 @@ header:
 </iframe>
 </p>
 
-<iframe src="https://mathstodon.xyz/@danielmargerit/embed" style="border: none; width: 100%; height: 600px;"></iframe>
