@@ -13,7 +13,7 @@ header:
 de l'association [Les Maths en Scène](https://lesmathsenscene.fr/) comme parrain scientifique (suivi d'élèves)
 - Article:
 	- *Quand deux mascottes fans de maths attendent impatiemment le festival les Maths en Scènes*, 2022, sur le site de l'association Les Maths en scène, 
-	[ici](https://lesmathsenscene.fr/2022/construire-une-culture-mathematique-commune-classe-de-cm1-cm2-de-millay/)
+	[ici](https://lesmathsenscene.fr/blog/2022/02/25/quand-deux-mascottes-fans-de-maths-attendent-impatiemment-le-festival-les-maths-en-scenes-2022/)
 
 
 <!--- Publication de vulgarisation (à venir)  -->
