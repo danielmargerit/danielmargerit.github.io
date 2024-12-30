@@ -131,7 +131,7 @@ Gamm (Gesellschaft fur Angewandte Mathematik und Mechanik) Annual Meeting 2000, 
 [IMFT, Toulouse, 23 fev. 2001], 
 [MAB, Bordeaux, 01 mars 2001]
 - *Expansion of the Biot-Savart law applied to a curved slender vortex filament with axial variation*, DAMTP, University of Cambridge, 2 Fev. 2000, 
-[slides]({{site.baseurl}}/docs/slides/dampt_slides.pdf)
+[slides]({{site.baseurl}}/docs/slides/dampt_slides.pdf), [slides refactored 2024 (beamer)]({{site.baseurl}}/docs/slides/dampt_slides_2024.pdf)
 - *Singular perturbation equations for three dimensional Excitable Media*, TUXEDO meeting, Warwick University, 7 June 1999, 
 [slides]({{site.baseurl}}/docs/slides/warwick_tuxedo.pdf)
 - *Vortex dynamics and Motion of vortex filament*, réunion hebdomadaire du groupe turbulence de A. C. Newell, Warwick Mathematics Institute, fev. 1999, 
