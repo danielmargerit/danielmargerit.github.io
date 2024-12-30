@@ -18,11 +18,11 @@ You can see my ResearchGate page [here](https://www.researchgate.net/profile/Dan
 -  Marie Rodal, **D. Margerit**, Rupert Klein, *Slender vortex filaments in the Boussinesq approximation*, 
      Phys. of Fluids 36, (5), May 2024,  
    [doi]( https://doi.org/10.1063/5.0205028),
-    [pdf](https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0205028/20134372/056604_1_5.0205028.pdf), 
+    [pdf](https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0205028/20134372/056604_1_5.0205028.pdf) 
 -  Abhishek Harikrishnan, Marie Rodal, Rupert Klein, **D. Margerit**, Nikki Vercauteren, *On the motion of hairpin filaments in the atmospheric boundary layer*, 
      Phys. of Fluids 35, 076603, 2023,  
    [doi]( https://doi.org/10.1063/5.0151078),
-    [pdf](https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0151078/18034465/076603_1_5.0151078.pdf), 
+    [pdf](https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0151078/18034465/076603_1_5.0151078.pdf) 
 - **D. Margerit**, P. Brancher, A. Giovannini, *Implementation and validation of a slender vortex filament code: Its application to the study of a four-vortex wake model*, 
      Int. J. for Numerical Methods in Fluids, Volume44, Issue 2, p. 175-196, 2003, 
    [doi]( https://doi.org/10.1002/fld.634),
