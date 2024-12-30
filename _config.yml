@@ -44,10 +44,15 @@ og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type                   : Person # You can keep it as Person or change it to Organization if necessary
+  name                   : Daniel Margerit # If you want to specify the name separately
   links: # An array of links to social media profiles
-
+    - { name: "GitHub",   url: "https://github.com/danielmargerit" }
+    - { name: "Twitter",  url: "https://twitter.com/danielmargerit" }
+    - { name: "LinkedIn", url: "https://www.linkedin.com/in/daniel-margerit-2705a49a" }
+    - { name: "Bluesky",  url: "https://bsky.app/profile/danielmargerit.bsky.social" }
+    - { name: "Mastodon", url: "https://mathstodon.xyz/@danielmargerit" }
+    - { name: "ResearchGate", url: "https://www.researchgate.net/profile/Daniel-Margerit" }
 # Analytics
 analytics:
   provider               : "google-gtag" # false (default), "google", "google-universal", "custom"
