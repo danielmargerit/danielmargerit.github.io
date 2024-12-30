@@ -94,9 +94,9 @@ author:
   weibo            :
   xing             :
   youtube          :
-  researchgate     : Daniel-Margerit
-  bluesky          : danielmargerit.bsky.social
-  mastodon         : @danielmargerit
+  researchgate     : "Daniel-Margerit"
+  bluesky          : "danielmargerit.bsky.social"
+  mastodon         : "@danielmargerit"
 
 sass:
     sass_dir: assets/_scss
