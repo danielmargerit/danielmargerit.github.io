@@ -7,7 +7,6 @@ header:
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
 ---
 
-<iframe src="https://mathstodon.xyz/@danielmargerit/embed" style="border: none; width: 100%; height: 600px;"></iframe>
 
 <p style="text-align:center">
   <a href="https://mathstodon.xyz/@danielmargerit/" target="_blank" style="text-decoration:none; color:#3088d4;">
