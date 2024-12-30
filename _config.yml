@@ -71,7 +71,7 @@ author:
   codepen          :
   dribbble         :
   flickr           : 
-  facebook         : daniel.margerit
+  facebook         : 
   foursquare       :
   github           : danielmargerit
   google_plus      :
@@ -84,11 +84,14 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : DMargerit
+  twitter          : 
   vine             :
   weibo            :
   xing             :
   youtube          :
+  researchgate     : "https://www.researchgate.net/profile/Daniel-Margerit"
+  bluesky          : "https://bsky.app/profile/danielmargerit.bsky.social"
+  mastodon         : "https://mathstodon.xyz/@danielmargerit"
 
 sass:
     sass_dir: assets/_scss

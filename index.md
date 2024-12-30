@@ -21,10 +21,12 @@ Je crée ce site avant tout pour moi, mais également pour ceux que cela pourrai
 Le site est rédigé principalement en français, avec parfois des sections en anglais pour certaines de mes activités de recherche.
 ## Bio
 
-Je suis docteur ingénieur en mécanique des fluides, sur un profil plutôt théorique orienté mathématiques appliquées. J'ai pratiqué les maths, l'informatique, la mécanique théorique, le calcul scientifique dans diverses situations.
-J'ai eu l'occasion d'enseigner un peu ces disciplines. 
+Je suis docteur ingénieur en mécanique des fluides, avec une approche théorique axée sur les mathématiques appliquées. 
+J'ai exploré de nombreuses facettes des mathématiques, de l'informatique, de la mécanique théorique et du calcul scientifique dans divers contextes.
 
-Grand admirateur des mathématiques et de leurs secrets, ainsi que de l'informatique; j'éprouve une grande satisfaction chaque fois que je parviens à comprendre un peu plus ...
+J'ai également eu l'occasion d'enseigner ces disciplines. 
+
+Grand admirateur des mathématiques, ainsi que de l'informatique; j'éprouve une grande satisfaction chaque fois que je parviens à comprendre un peu plus ...
 
 
 
