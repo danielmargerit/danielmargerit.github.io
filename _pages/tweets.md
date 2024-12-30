@@ -9,14 +9,23 @@ header:
 
 <iframe src="https://mathstodon.xyz/@danielmargerit/embed" style="border: none; width: 100%; height: 600px;"></iframe>
 
+<p style="text-align:center">
+  <a href="https://mathstodon.xyz/@danielmargerit/" target="_blank" style="text-decoration:none; color:#3088d4;">
+    🌐 Suivez-moi sur Mastodon : @danielmargerit
+  </a>
+</p>
+<iframe src="https://mathstodon.xyz/@danielmargerit/embed" style="border: none; width: 100%; height: 600px;"></iframe>
 
+
+<!-- 
 <p style="text-align:center">
   <a class="twitter-timeline" data-height="800" data-width="500" data-theme="dark" href="https://x.com/DMargerit?ref_src=twsrc%5Etfw">
     Please Wait ... Posts & Reposts @DMargerit
   </a> 
   <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
+</p> 
+ -->
+ 
 <p style="text-align:center">
 <iframe src="https://bsky.app/profile/danielmargerit.bsky.social" style="width:100%; height:800px; border:none;">
   Votre navigateur ne prend pas en charge les iframes. Consultez mon profil sur <a href="https://bsky.app/profile/danielmargerit.bsky.social" target="_blank">Bluesky</a>.
