@@ -19,12 +19,12 @@ original_link: "https://jeux.lesmathsenscene.fr/avent-2022/surprises/S-D8CTBLuP9
 
 <div style="text-align: justify; font-size: 100%; margin-top: 60px;">
 
-L’outil numérique permet à des artistes de nous révéler des mondes imaginaires d’une grande beauté mathématique ; mondes géométriques qui peuvent parfois être animés pour mieux encore nous les faire découvrir. Tel est le cas des mondes de Jos Leys, qui est « Un grand maître ès images mathématiques ! » (Citation d’<a href="https://perso.ens-lyon.fr/ghys/liens/">Etienne Ghys</a> qui a réalisé avec lui et Aurélien Alvarez le film <a href="http://dimensions-math.org/Dim_fr.htm">Dimensions</a>), ainsi que des univers d’autres artistes tels que Douglas Hilário da Cruz, Etienne Jacob, « Jo », Matt Taylor, Dave Whyte et Jérémie Brunet.
+L’outil numérique permet à des artistes de nous révéler des mondes imaginaires d’une grande beauté mathématique; mondes géométriques qui peuvent parfois être animés pour mieux encore nous les faire découvrir. Tel est le cas des mondes de Jos Leys, qui est « Un grand maître ès images mathématiques ! » (Citation d’<a href="https://perso.ens-lyon.fr/ghys/liens/">Etienne Ghys</a> qui a réalisé avec lui et Aurélien Alvarez le film <a href="http://dimensions-math.org/Dim_fr.htm">Dimensions</a>), ainsi que des univers d’autres artistes tels que Douglas Hilário da Cruz, Etienne Jacob, « Jo », Matt Taylor, Dave Whyte et Jérémie Brunet.
 
 <p>
 <div style="text-align: center;">
   <div style="position: relative; width: 640px; height: 640px; display: inline-block;">
-    <img src="/images/posts/2022-12-23\aire.png">
+    <img src="/images/posts/2022-12-23/aire.png">
     <canvas width=640 height=640 id="aire" style="position: absolute; top:0; left:0;"></canvas>
   </div>
 </div>
