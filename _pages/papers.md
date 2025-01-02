@@ -18,7 +18,7 @@ You can see my ResearchGate page [here](https://www.researchgate.net/profile/Dan
 -  Marie Rodal, **D. Margerit**, Rupert Klein, *Slender vortex filaments in the Boussinesq approximation*, 
      Phys. of Fluids 36, (5), May 2024,
    [doi]( https://doi.org/10.1063/5.0205028),
-    [pdf](https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0205028/20134372/056604_1_5.0205028.pdf), [SageMAE4PDEs](https://github.com/danielmargerit/SageMAE4PDEs) project, [ipynb_1](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb), [ipynb_2](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb) 
+    [pdf](https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0205028/20134372/056604_1_5.0205028.pdf), see code [ipynb_1](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb) and [ipynb_2](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb) from the [SageMAE4PDEs](https://github.com/danielmargerit/SageMAE4PDEs) project
 -  Abhishek Harikrishnan, Marie Rodal, Rupert Klein, **D. Margerit**, Nikki Vercauteren, *On the motion of hairpin filaments in the atmospheric boundary layer*, 
      Phys. of Fluids 35, 076603, 2023,
    [doi]( https://doi.org/10.1063/5.0151078),
