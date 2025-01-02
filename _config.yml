@@ -97,6 +97,7 @@ author:
   researchgate     : "Daniel-Margerit"
   bluesky          : "danielmargerit.bsky.social"
   mastodon         : "@danielmargerit"
+  scholar          : "52Zud-kAAAAJ&hl"
 
 sass:
     sass_dir: assets/_scss

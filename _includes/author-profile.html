@@ -29,7 +29,7 @@
         <li><a href="{{ author.uri }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label }}</a></li>
+        <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> Email</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fa fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -106,6 +106,9 @@
       {% if author.mastodon %}
         <li><a href="https://mathstodon.xyz/{{ author.mastodon }}"><i class="fa-brands fa-mastodon" aria-hidden="true"></i> Mathstodon</a></li>
       {% endif %}
+	  {% if author.scholar %}
+	    <li><a href="https://scholar.google.com/citations?user={{ author.scholar }}&hl=en" target="_blank"><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a></li>
+	  {% endif %}
     </ul>
   </div>
 </div>
