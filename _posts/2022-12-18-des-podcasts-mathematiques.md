@@ -78,7 +78,7 @@ On y découvre les mathématiques et les parcours de chercheurs, mais aussi parf
 </div>
 <p></p>
 
-Olivier Geneste, après avoir enseigné en classes préparatoires, a lancé le podcast [Øljen - Les maths en finesse](https://www.youtube.com/playlist?list=PLkj0p5n3uJ6xrolg_GTSQr6913ABqtqKu). Ce podcast est accessible sur différentes plateformes de diffusion et sur sa chaîne YouTube.
+Olivier Geneste, après avoir enseigné en classes préparatoires, a lancé le podcast [Øljen - Les maths en finesse](https://web.archive.org/web/20221016132026/https://www.youtube.com/playlist?list=PLkj0p5n3uJ6xrolg_GTSQr6913ABqtqKu). Ce podcast est accessible sur différentes plateformes de diffusion et sur sa chaîne YouTube.
 
 Avec sa voix rassurante, il prodigue des conseils et explications : découvrez *les marches aléatoires* ou ses supers conseils d’apprentissage valides pour quiconque souhaite progresser. 
 
