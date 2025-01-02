@@ -1,12 +1,9 @@
 {% include base_path %}
 
 <div class="page__footer-follow">
-  <ul class="social-icons">
+  <ul class="social-icons"> 
     {% if site.data.ui-text[site.locale].follow_label %}
       <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-    {% if site.twitter.username %}
-      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
     {% endif %}
     {% if site.facebook.username %}
       <li><a href="https://facebook.com/{{ site.facebook.username }}"><i class="fa fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
@@ -17,12 +14,15 @@
     {% if site.author.researchgate %}
       <li><a href="https://www.researchgate.net/profile/{{ site.author.researchgate }}"><i class="fa-brands fa-researchgate" aria-hidden="true"></i> Researchgate</a></li>
     {% endif %}	
+	{% if site.author.scholar %}
+	  <li><a href="https://scholar.google.com/citations?user={{ author.scholar }}&hl=en" target="_blank"><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a></li>
+	{% endif %}
+    {% if site.twitter.username %}
+      <li><a href="https://twitter.com/{{ site.twitter.username }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    {% endif %}
     {% if site.author.bitbucket %}
       <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fa fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
     {% endif %}
-	{% if author.scholar %}
-	  <li><a href="https://scholar.google.com/citations?user={{ author.scholar }}&hl=en" target="_blank"><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i> Google Scholar</a></li>
-	{% endif %}
     <li><a href="{{ base_path }}/feed.xml"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label }}</a></li>
   </ul>
 </div>
