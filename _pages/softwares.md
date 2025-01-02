@@ -18,16 +18,15 @@ This project is in a started stage : it is in the phase of collecting informatio
 
 Examples of SageMath notebooks to do MAE for PDEs : Slender Vortex Filament motion
 We provide here examples of using the SageMath tool (the free open-source mathematics software system) to derive those calculations.
-- **Slender vortex filaments in the Boussinesq Approximation, Marie Rodal, Daniel Margerit, Rupert Klein, submitted to Physics of Fluids, [arXiv:2403.00460 [physics.flu-dyn]](https://arxiv.org/abs/2403.00460)**
+- Marie Rodal, **D. Margerit**, Rupert Klein, *Slender vortex filaments in the Boussinesq approximation*, 
+     Phys. of Fluids 36, (5), May 2024,
+   [doi]( https://doi.org/10.1063/5.0205028),
+    [pdf](https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0205028/20134372/056604_1_5.0205028.pdf)
 	- vortex filament derivation 
-	[[cocalc]](https://cocalc.com/github/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb)
-	[[html]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.html)
-	[[ipynb]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb) 
+	[[cocalc]](https://cocalc.com/github/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb), [[html]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.html), [[ipynb]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb)
 	: local curvilinear operators, asymptotic expansions in those operators, simplification of the equations at each orders (symmetrical part)
 	- vortex filament equations 
-	[[cocalc]](https://cocalc.com/github/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb)
-	[[html]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.html)
-	[[ipynb]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb)
+	[[cocalc]](https://cocalc.com/github/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb), [[html]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.html), [[ipynb]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb)
 	: the outcome equations at each orders
 
 
