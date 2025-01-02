@@ -18,9 +18,8 @@ original_link: "https://jeux.lesmathsenscene.fr/avent-2022/surprises/S-D8CTBLuP9
 ---
 
 <div style="text-align: justify; font-size: 100%; margin-top: 60px;">
-
 L’outil numérique permet à des artistes de nous révéler des mondes imaginaires d’une grande beauté mathématique; mondes géométriques qui peuvent parfois être animés pour mieux encore nous les faire découvrir. Tel est le cas des mondes de Jos Leys, qui est « Un grand maître ès images mathématiques ! » (Citation d’<a href="https://perso.ens-lyon.fr/ghys/liens/">Etienne Ghys</a> qui a réalisé avec lui et Aurélien Alvarez le film <a href="http://dimensions-math.org/Dim_fr.htm">Dimensions</a>), ainsi que des univers d’autres artistes tels que Douglas Hilário da Cruz, Etienne Jacob, « Jo », Matt Taylor, Dave Whyte et Jérémie Brunet.
-
+</div>
 <p>
 <div style="text-align: center;">
   <div style="position: relative; width: 640px; height: 640px; display: inline-block;">
@@ -30,7 +29,6 @@ L’outil numérique permet à des artistes de nous révéler des mondes imagina
 </div>
 </p>
 Pour cette période de Noël, les univers de ces six artistes « mathématiciens » se sont invités ou incrustés ci-dessus sur le monde <a href="http://www.josleys.com/show_image.php?galid=267&imageid=8348">Kleinian jewelry</a> créé par Jos Leys et disponible sur son site <a href="http://www.josleys.com/">Mathematical Imagery</a>&nbsp;: pour cela clique sur les six incrustations. Cette surprise est donc une invitation à partir dans ces univers&nbsp;: bon voyage mathématico géométrique&nbsp;!
-
 <p>
 <hr style="width: 200px;">
 </p>
@@ -106,7 +104,6 @@ canvas.onclick = function () {
 
 paint(); // Initial draw
 </script>
-</div>
 
 ### Remerciements
 - Mise en forme HTML réalisée par **Arnaud Chéritat**. Un grand merci pour son aide précieuse dans la création de cette surprise interactive !
@@ -116,3 +113,4 @@ paint(); // Initial draw
 ### Origine de cet article
 Ce post a été publié initialement le **19 décembre 2022** dans les surprises du Calendrier de l'Avent Mathématiques Les Maths En Scène.  
 Retrouvez la version originale ici : [Surprise du 19 décembre 2022](https://jeux.lesmathsenscene.fr/avent-2022/surprises/S-D8CTBLuP9EKEgqSrrVTyvC6NCoOsuMBp/).
+
