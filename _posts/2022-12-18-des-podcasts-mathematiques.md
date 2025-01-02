@@ -2,8 +2,8 @@
 title: "Des podcasts mathématiques"
 date: 2022-12-18 10:00:00 +0100
 categories: 
- - math
- - podcasts
+  - math
+  - podcasts
 tags:
   - maths
   - podcast
@@ -11,8 +11,8 @@ tags:
 use_math: true
 published: true
 author: "Daniel Margerit"
-credits images: domaine public
-Remerciements : Remerciements : merci au site <a href="https://www.nuagesdemots.fr/">www.nuagesdemots.fr</a> pour la réalisation de nuages de mots
+credits_images: domaine public  # Correction de la clé
+acknowledgements: "Merci au site <a href='https://www.nuagesdemots.fr/'>www.nuagesdemots.fr</a> pour la réalisation de nuages de mots."  # Correction de la section remerciements
 originally_published: "2022-12-14"
 original_link: "https://jeux.lesmathsenscene.fr/avent-2022/surprises/Q-ZUBW4gO3jw0nWmFQRoY25zq68T3f2LGy/"
 ---
