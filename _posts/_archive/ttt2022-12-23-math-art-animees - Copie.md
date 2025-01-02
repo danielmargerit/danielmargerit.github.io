@@ -24,8 +24,8 @@ L’outil numérique permet à des artistes de nous révéler des mondes imagina
 <p>
 <div style="text-align: center;">
   <div style="position: relative; width: 640px; height: 640px; display: inline-block;">
-    <img src="/images/posts/2022-12-23/aire.png" alt="Illustration de Jos Leys">
-    <canvas width="640" height="640" id="aire" style="position: absolute; top: 0; left: 0;"></canvas>
+    <img src="/images/posts/2022-12-23/aire.png">
+    <canvas width=640 height=640 id="aire" style="position: absolute; top:0; left:0;"></canvas>
   </div>
 </div>
 </p>
@@ -35,66 +35,65 @@ Pour cette période de Noël, les univers de ces six artistes « mathématicien
 <hr style="width: 200px;">
 </p>
 
+
 <script>
-let canvas = document.getElementById("aire");
-let w = canvas.width;
-let h = canvas.height;
-let ctx = canvas.getContext("2d");
+let canvas=document.getElementById("aire");
+let w=canvas.width;
+let h=canvas.height;
+let ctx=canvas.getContext("2d");
 let circles = [
-  { x: 141, y: 308, r: 38, link: "https://www.instagram.com/artmathbeauty/" },
-  { x: 156, y: 406, r: 59, link: "https://bleuje.com/animationsite/" },
-  { x: 255, y: 500, r: 78, link: "https://www.instagram.com/davebeesbombs/" },
-  { x: 406, y: 495, r: 73, link: "https://www.instagram.com/emty01/" },
-  { x: 493, y: 400, r: 53, link: "https://www.instagram.com/jn3oo8/" },
-  { x: 508, y: 311, r: 35, link: "https://www.youtube.com/user/bib993" },
-];
+  { x: 141, y:308, r: 38, link: "https://www.instagram.com/artmathbeauty/"},
+  { x: 156, y:406, r: 59, link: "https://bleuje.com/animationsite/"},
+  { x: 255, y:500, r: 78, link: "https://www.instagram.com/davebeesbombs/"},
+  { x: 406, y:495, r: 73, link: "https://www.instagram.com/emty01/"},
+  { x: 493, y:400-0.5, r: 53, link: "https://www.instagram.com/jn3oo8/"},
+  { x: 508, y:311, r: 35, link: "https://www.youtube.com/user/bib993"},
+]
 
 function getMousePos(canvas, evt) {
   var rect = canvas.getBoundingClientRect();
   return {
     x: evt.clientX - rect.left,
-    y: evt.clientY - rect.top,
+    y: evt.clientY - rect.top
   };
 }
 
-function distSq(a, b) {
-  return (a.x - b.x) * (a.x - b.x) + (a.y - b.y) * (a.y - b.y);
+function distSq(a,b) {
+  return (a.x-b.x)*(a.x-b.x)+(a.y-b.y)*(a.y-b.y);
 }
 
 let highlight = null;
 
 function paint() {
-  ctx.clearRect(0, 0, w, h);
-  if (highlight !== null) {
+  ctx.clearRect(0,0,w,h);
+  if(highlight!==null) {
     ctx.beginPath();
-    ctx.arc(highlight.x, highlight.y, highlight.r, 0, 2 * Math.PI);
-    ctx.strokeStyle = "red";
+    ctx.arc(highlight.x,highlight.y,highlight.r,0,2*Math.PI);
+    ctx.strokeStyle="red";
     ctx.lineWidth = 3;
     ctx.stroke();
   }
 }
 
-canvas.onmousemove = function (e) {
-  var p = getMousePos(canvas, e);
-  highlight = null; // Reset highlight
-  for (let i = 0; i < circles.length; i++) {
-    let c = circles[i];
-    if (distSq(p, c) < c.r * c.r) {
+aire.onmousemove= function(e) {
+  var p=getMousePos(canvas,e);
+  for(var i=0; i<circles.length; i++) {
+    c=circles[i];
+    if(distSq(p,c)<c.r*c.r) {
       highlight = c;
-      break;
-    }
+      paint();
+      return;
+    };
   }
+  highlight=null;
   paint();
-};
+}
 
-canvas.onclick = function () {
-  if (highlight !== null) {
-    console.log(`Opening link: ${highlight.link}`);
-    window.open(highlight.link, "_blank");
-  } else {
-    console.log("Clicked outside any circle.");
+aire.onclick = function() {
+  if(highlight!==null) {
+    window.open(highlight.link);
   }
-};
+}
 </script>
 </div>
 
