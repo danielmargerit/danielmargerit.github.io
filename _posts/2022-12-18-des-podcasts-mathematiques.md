@@ -72,7 +72,7 @@ On y découvre les mathématiques et les parcours de chercheurs, mais aussi parf
 <p></p>
 
 <div style="text-align: center;">
-  <a href="https://www.youtube.com/playlist?list=PLkj0p5n3uJ6xrolg_GTSQr6913ABqtqKu">
+  <a href="https://web.archive.org/web/20221016132026/https://www.youtube.com/playlist?list=PLkj0p5n3uJ6xrolg_GTSQr6913ABqtqKu">
     <img src="/images/posts/2022-12-18/img_4.png" alt="Øljen Podcast">
   </a>
 </div>
