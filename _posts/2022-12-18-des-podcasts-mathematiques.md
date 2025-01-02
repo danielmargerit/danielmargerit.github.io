@@ -26,7 +26,7 @@ Les mathématiques n’échappent pas au phénomène des podcasts, et des scient
 </div>
 
 <div style="text-align: center;">
-  <img src="images\2022-12-18\img_1.jpg" alt="Illustration">
+  <img src="/images/posts/2022-12-18/img_1.jpg" alt="Illustration">
 </div>
 
 ---
