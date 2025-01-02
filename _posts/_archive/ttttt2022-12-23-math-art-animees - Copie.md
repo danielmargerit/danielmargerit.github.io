@@ -35,63 +35,75 @@ Pour cette période de Noël, les univers de ces six artistes « mathématicien
 </p>
 
 <script>
-let canvas=document.getElementById("aire");
-let w=canvas.width;
-let h=canvas.height;
-let ctx=canvas.getContext("2d");
+let canvas = document.getElementById("aire");
+let w = canvas.width;
+let h = canvas.height;
+let ctx = canvas.getContext("2d");
+
 let circles = [
-  { x: 141, y:308, r: 38, link: "https://www.instagram.com/artmathbeauty/"},
-  { x: 156, y:406, r: 59, link: "https://bleuje.com/animationsite/"},
-  { x: 255, y:500, r: 78, link: "https://www.instagram.com/davebeesbombs/"},
-  { x: 406, y:495, r: 73, link: "https://www.instagram.com/emty01/"},
-  { x: 493, y:400-0.5, r: 53, link: "https://www.instagram.com/jn3oo8/"},
-  { x: 508, y:311, r: 35, link: "https://www.youtube.com/user/bib993"},
-]
+  { x: 141, y: 308, r: 38, link: "https://www.instagram.com/artmathbeauty/" },
+  { x: 156, y: 406, r: 59, link: "https://bleuje.com/animationsite/" },
+  { x: 255, y: 500, r: 78, link: "https://www.instagram.com/davebeesbombs/" },
+  { x: 406, y: 495, r: 73, link: "https://www.instagram.com/emty01/" },
+  { x: 493, y: 400, r: 53, link: "https://www.instagram.com/jn3oo8/" },
+  { x: 508, y: 311, r: 35, link: "https://www.youtube.com/user/bib993" },
+];
 
 function getMousePos(canvas, evt) {
   var rect = canvas.getBoundingClientRect();
   return {
     x: evt.clientX - rect.left,
-    y: evt.clientY - rect.top
+    y: evt.clientY - rect.top,
   };
 }
 
-function distSq(a,b) {
-  return (a.x-b.x)*(a.x-b.x)+(a.y-b.y)*(a.y-b.y);
+function distSq(a, b) {
+  return (a.x - b.x) * (a.x - b.x) + (a.y - b.y) * (a.y - b.y);
 }
 
 let highlight = null;
 
 function paint() {
-  ctx.clearRect(0,0,w,h);
-  if(highlight!==null) {
+  ctx.clearRect(0, 0, w, h);
+  for (let i = 0; i < circles.length; i++) {
+    let c = circles[i];
     ctx.beginPath();
-    ctx.arc(highlight.x,highlight.y,highlight.r,0,2*Math.PI);
-    ctx.strokeStyle="red";
+    ctx.arc(c.x, c.y, c.r, 0, 2 * Math.PI);
+    ctx.strokeStyle = "rgba(0, 0, 255, 0.2)"; // Bordure légère
+    ctx.lineWidth = 2;
+    ctx.stroke();
+  }
+  if (highlight !== null) {
+    ctx.beginPath();
+    ctx.arc(highlight.x, highlight.y, highlight.r, 0, 2 * Math.PI);
+    ctx.strokeStyle = "red";
     ctx.lineWidth = 3;
     ctx.stroke();
   }
 }
 
-aire.onmousemove= function(e) {
-  var p=getMousePos(canvas,e);
-  for(var i=0; i<circles.length; i++) {
-    c=circles[i];
-    if(distSq(p,c)<c.r*c.r) {
+canvas.onmousemove = function (e) {
+  var p = getMousePos(canvas, e);
+  highlight = null; // Reset highlight
+  canvas.style.cursor = "default";
+  for (let i = 0; i < circles.length; i++) {
+    let c = circles[i];
+    if (distSq(p, c) < c.r * c.r) {
       highlight = c;
-      paint();
-      return;
-    };
+      canvas.style.cursor = "pointer"; // Curseur "main"
+      break;
+    }
   }
-  highlight=null;
   paint();
-}
+};
 
-aire.onclick = function() {
-  if(highlight!==null) {
-    window.open(highlight.link);
+canvas.onclick = function () {
+  if (highlight !== null) {
+    window.open(highlight.link, "_blank");
   }
-}
+};
+
+paint(); // Initial draw
 </script>
 
 ### Remerciements
