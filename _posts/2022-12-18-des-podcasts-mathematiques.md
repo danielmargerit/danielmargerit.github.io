@@ -34,11 +34,13 @@ Les mathématiques n’échappent pas au phénomène des podcasts, et des scient
 
 ### 1. Maths en tête : le podcast
 
+<p></p>
 <div style="text-align: center;">
   <a href="https://www.mathsentete.fr/podcast">
     <img src="/images/posts/2022-12-18/img_2.jpeg" alt="Maths en tête Podcast">
   </a>
 </div>
+<p></p>
 
 Alexandre Morgan, auteur du site [Maths en tête](https://www.mathsentete.fr/), a commencé [un podcast](https://www.mathsentete.fr/podcast) de vulgarisation mathématique en novembre 2021. Il est accessible à tous, même pour ceux qui pourraient être fâchés avec les maths. Chaque nouvel épisode sort les mercredis et est attendu avec impatience.
 
@@ -52,25 +54,29 @@ Retrouvez également Alexandre sur son site [Maths en tête](https://www.mathsen
 
 ### 2. L’oreille mathématique
 
+<p></p>
 <div style="text-align: center;">
   <a href="https://maison-des-maths.paris/houria-lafrance/">
     <img src="/images/posts/2022-12-18/img_3.jpg" alt="L'oreille mathématique" style="width: 400px;">
   </a>
 </div>
+<p></p>
 
 [**L’oreille mathématique**](https://maison-des-maths.paris/podcasts/) est un podcast dédié aux mathématiques et à la physique théorique produit pour l’Institut Henri Poincaré par Hélène Delye depuis novembre 2019. C’est une conversation mensuelle avec un mathématicien ou une mathématicienne pour mettre en lumière le tempérament et les idées de celles et ceux qui font les mathématiques contemporaines.
 
-On y découvre les mathématiques et les parcours de chercheurs, mais aussi parfois d’ingénieurs ou de professeurs du secondaire, comme l’interview de [Houria Lafrance](https://maison-des-maths.paris/houria-lafrance/), fondatrice de l’association *Les Maths en Scène*. Les podcasts ne sont pas techniques et sont accessibles à tous. Merci à l’Institut Henri Poincaré pour ce podcast.
+On y découvre les mathématiques et les parcours de chercheurs, mais aussi parfois d’ingénieurs ou de professeurs du secondaire, comme l’interview de [Houria Lafrance](https://www.ihp.fr/fr/houria-lafrance), fondatrice de l’association *Les Maths en Scène*. Les podcasts ne sont pas techniques et sont accessibles à tous. Merci à l’Institut Henri Poincaré pour ce podcast.
 
 ---
 
 ### 3. Øljen : le podcast
+<p></p>
 
 <div style="text-align: center;">
   <a href="https://www.youtube.com/playlist?list=PLkj0p5n3uJ6xrolg_GTSQr6913ABqtqKu">
     <img src="/images/posts/2022-12-18/img_4.png" alt="Øljen Podcast">
   </a>
 </div>
+<p></p>
 
 Olivier Geneste, après avoir enseigné en classes préparatoires, a lancé le podcast [Øljen - Les maths en finesse](https://www.youtube.com/playlist?list=PLkj0p5n3uJ6xrolg_GTSQr6913ABqtqKu). Ce podcast est accessible sur différentes plateformes de diffusion et sur sa chaîne YouTube.
 
@@ -80,7 +86,6 @@ Retrouvez aussi sa chaîne YouTube [Øljen - Les maths en finesse](https://www.y
 
 Merci à Olivier pour son travail et ses contributions pédagogiques.
 
-</div>
 
 ---
 
