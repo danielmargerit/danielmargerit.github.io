@@ -40,6 +40,7 @@ let canvas = document.getElementById("aire");
 let w = canvas.width;
 let h = canvas.height;
 let ctx = canvas.getContext("2d");
+
 let circles = [
   { x: 141, y: 308, r: 38, link: "https://www.instagram.com/artmathbeauty/" },
   { x: 156, y: 406, r: 59, link: "https://bleuje.com/animationsite/" },
@@ -65,6 +66,14 @@ let highlight = null;
 
 function paint() {
   ctx.clearRect(0, 0, w, h);
+  for (let i = 0; i < circles.length; i++) {
+    let c = circles[i];
+    ctx.beginPath();
+    ctx.arc(c.x, c.y, c.r, 0, 2 * Math.PI);
+    ctx.strokeStyle = "rgba(0, 0, 255, 0.2)"; // Bordure légère
+    ctx.lineWidth = 2;
+    ctx.stroke();
+  }
   if (highlight !== null) {
     ctx.beginPath();
     ctx.arc(highlight.x, highlight.y, highlight.r, 0, 2 * Math.PI);
@@ -77,10 +86,12 @@ function paint() {
 canvas.onmousemove = function (e) {
   var p = getMousePos(canvas, e);
   highlight = null; // Reset highlight
+  canvas.style.cursor = "default";
   for (let i = 0; i < circles.length; i++) {
     let c = circles[i];
     if (distSq(p, c) < c.r * c.r) {
       highlight = c;
+      canvas.style.cursor = "pointer"; // Curseur "main"
       break;
     }
   }
@@ -89,12 +100,11 @@ canvas.onmousemove = function (e) {
 
 canvas.onclick = function () {
   if (highlight !== null) {
-    console.log(`Opening link: ${highlight.link}`);
     window.open(highlight.link, "_blank");
-  } else {
-    console.log("Clicked outside any circle.");
   }
 };
+
+paint(); // Initial draw
 </script>
 </div>
 
