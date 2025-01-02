@@ -14,7 +14,7 @@ The [EZ-Vortex](https://github.com/danielmargerit/ezvortex) code is a Slender Vo
 # SageMAE4PDEs
 The [SageMAE4PDEs](https://github.com/danielmargerit/SageMAE4PDEs) project means MAE (Matched Asymptotic Expansion) for PDEs (Partial Differential Equations) aided by SageMath free open-source mathematics software system.
 We are interested in using the Matched Asymptotic Expansion method to provide solutions of Partial Differential Equations. This often leads to difficult calculations in which humans can make mistakes when deriving those calculations on a sheet of paper.
-This project is in a started stage : it is in the phase of collecting information and examples to specify thye library that would be welcomed to be developed.
+This project is in a started stage: it is in the phase of collecting information and examples to specify thye library that would be welcomed to be developed.
 
 Examples of SageMath notebooks to do MAE for PDEs : Slender Vortex Filament motion
 We provide here examples of using the SageMath tool (the free open-source mathematics software system) to derive those calculations.
