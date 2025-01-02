@@ -56,13 +56,13 @@ Retrouvez également Alexandre sur son site [Maths en tête](https://www.mathsen
 
 <p></p>
 <div style="text-align: center;">
-  <a href="https://maison-des-maths.paris/houria-lafrance/">
+  <a href="https://www.ihp.fr/fr/houria-lafrance">
     <img src="/images/posts/2022-12-18/img_3.jpg" alt="L'oreille mathématique" style="width: 400px;">
   </a>
 </div>
 <p></p>
 
-[**L’oreille mathématique**](https://maison-des-maths.paris/podcasts/) est un podcast dédié aux mathématiques et à la physique théorique produit pour l’Institut Henri Poincaré par Hélène Delye depuis novembre 2019. C’est une conversation mensuelle avec un mathématicien ou une mathématicienne pour mettre en lumière le tempérament et les idées de celles et ceux qui font les mathématiques contemporaines.
+[**L’oreille mathématique**](https://www.ihp.fr/fr/podcast-loreille-mathematique) est un podcast dédié aux mathématiques et à la physique théorique produit pour l’Institut Henri Poincaré par Hélène Delye depuis novembre 2019. C’est une conversation mensuelle avec un mathématicien ou une mathématicienne pour mettre en lumière le tempérament et les idées de celles et ceux qui font les mathématiques contemporaines.
 
 On y découvre les mathématiques et les parcours de chercheurs, mais aussi parfois d’ingénieurs ou de professeurs du secondaire, comme l’interview de [Houria Lafrance](https://www.ihp.fr/fr/houria-lafrance), fondatrice de l’association *Les Maths en Scène*. Les podcasts ne sont pas techniques et sont accessibles à tous. Merci à l’Institut Henri Poincaré pour ce podcast.
 
