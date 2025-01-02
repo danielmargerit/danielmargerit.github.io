@@ -22,13 +22,8 @@ We provide here examples of using the SageMath tool (the free open-source mathem
      Phys. of Fluids 36, (5), May 2024,
    [doi]( https://doi.org/10.1063/5.0205028),
     [pdf](https://pubs.aip.org/aip/pof/article-pdf/doi/10.1063/5.0205028/20134372/056604_1_5.0205028.pdf)
-	- vortex filament derivation 
-	[[cocalc]](https://cocalc.com/github/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb), [[html]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.html), [[ipynb]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb)
-	: local curvilinear operators, asymptotic expansions in those operators, simplification of the equations at each orders (symmetrical part)
-	- vortex filament equations 
-	[[cocalc]](https://cocalc.com/github/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb), [[html]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.html), [[ipynb]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb)
-	: the outcome equations at each orders
-
+	- vortex filament derivation:  local curvilinear operators, asymptotic expansions in those operators, simplification of the equations at each orders (symmetrical part), [[cocalc]](https://cocalc.com/github/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb), [[html]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.html), [[ipynb]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT.ipynb)
+	- vortex filament equations: the outcome equations at each orders, [[cocalc]](https://cocalc.com/github/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb), [[html]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.html), [[ipynb]](https://github.com/danielmargerit/SageMAE4PDEs/blob/main/Notebooks/vortex_dynamics/vortex_nb_CT-Summary.ipynb)
 
 # Programmes cours du Cnam 
 
