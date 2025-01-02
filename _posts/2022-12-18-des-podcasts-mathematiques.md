@@ -20,6 +20,7 @@ original_link: "https://jeux.lesmathsenscene.fr/avent-2022/surprises/Q-ZUBW4gO3j
 <div style="text-align: justify; font-size: 100%; margin-top: 60px; margin-bottom: 50px;">
 
 Contrairement aux blogs et aux vidéos, les podcasts sont faciles à consommer, car ils peuvent être écoutés en réalisant d'autres activités.
+</div>
 
 <div style="font-size: 120%;">
 Les mathématiques n’échappent pas au phénomène des podcasts, et des scientifiques s’en sont emparés avec grand talent. Dans cette surprise, nous vous en faisons découvrir trois.
