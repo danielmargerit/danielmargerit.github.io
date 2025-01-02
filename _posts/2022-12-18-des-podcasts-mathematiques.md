@@ -35,7 +35,7 @@ Les mathématiques n’échappent pas au phénomène des podcasts, et des scient
 
 <div style="text-align: center;">
   <a href="https://www.mathsentete.fr/podcast">
-    <img src="images/2022-12-18/img_2.jpeg" alt="Maths en tête Podcast">
+    <img src="/images/posts/2022-12-18/img_2.jpeg" alt="Maths en tête Podcast">
   </a>
 </div>
 
@@ -53,7 +53,7 @@ Retrouvez également Alexandre sur son site [Maths en tête](https://www.mathsen
 
 <div style="text-align: center;">
   <a href="https://maison-des-maths.paris/houria-lafrance/">
-    <img src="images/2022-12-18/img_3.jpg" alt="L'oreille mathématique" style="width: 400px;">
+    <img src="/images/posts/2022-12-18/img_3.jpg" alt="L'oreille mathématique" style="width: 400px;">
   </a>
 </div>
 
@@ -67,7 +67,7 @@ On y découvre les mathématiques et les parcours de chercheurs, mais aussi parf
 
 <div style="text-align: center;">
   <a href="https://www.youtube.com/playlist?list=PLkj0p5n3uJ6xrolg_GTSQr6913ABqtqKu">
-    <img src="images/2022-12-18/img_4.png" alt="Øljen Podcast">
+    <img src="/images/posts/2022-12-18/img_4.png" alt="Øljen Podcast">
   </a>
 </div>
 

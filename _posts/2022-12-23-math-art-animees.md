@@ -24,7 +24,7 @@ L’outil numérique permet à des artistes de nous révéler des mondes imagina
 <p>
 <div style="text-align: center;">
   <div style="position: relative; width: 640px; height: 640px; display: inline-block;">
-    <img src="images\2022-12-23\aire.png">
+    <img src="/images/posts/2022-12-23\aire.png">
     <canvas width=640 height=640 id="aire" style="position: absolute; top:0; left:0;"></canvas>
   </div>
 </div>
