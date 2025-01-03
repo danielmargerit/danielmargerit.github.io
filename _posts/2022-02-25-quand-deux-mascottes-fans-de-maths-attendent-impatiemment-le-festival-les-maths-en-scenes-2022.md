@@ -62,6 +62,19 @@ Par la suite, les mascottes avaient besoin dans leur monde d’avoir une vue d�
 Sur celle-ci, ils pouvaient désormais géolocaliser les pôles où ils allaient se rendre, comme ci-dessous sur le pôle « Art et Mathématiques » :
 
 ![Image 10](/images/posts/2022-02-25/img_10.png)
+
+Ils alternent donc entre imagination du festival, qu’ils attendent impatiemment, et activités ou découvertes des mathématiques :
+![Image 11](/images/posts/2022-02-25/img_11.png)
+![Image 12](/images/posts/2022-02-25/img_12.png)
+
+Tant que le festival n’a pas débuté, on les apercevra surement encore un peu sur twitter dans leur découvertes et explorations mathématiques …
+
+Il paraitrait qu’ils s’intéressent en ce moment au calcul de trajectoire des fusées pour aller dans l’espace. Le lutin sait que pendant ce festival 2022, il y aura aussi une [chasse aux trésors](https://chasse-aux-tresors-2022.jeux.lesmathsenscene.fr/) sur internet avec des énigmes mathématiques dont il raffole. Il est donc dans les starting-blocks, prêt à commencer dès que le compte à rebours sera terminé :
+![Image 13](/images/posts/2022-02-25/img_13.png)
+
+Mais le jour Pi … ne le cherchez pas chez lui, car … comme les autres petits lutins, il sera au festival !   Sur la photo ci-dessous, on aperçoit même toute une famille de lutins, heureux de franchir les portes du festival des maths en scène 2022 :
+![Image 14](/images/posts/2022-02-25/img_14.png)
+
 ---
 
 ### Origine de cet article
