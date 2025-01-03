@@ -17,8 +17,6 @@ originally_published: "2022-12-19"
 original_link: "https://jeux.lesmathsenscene.fr/avent-2022/surprises/S-D8CTBLuP9EKEgqSrrVTyvC6NCoOsuMBp/"
 ---
 
-## Quand les maths s’animent : des maths plein les yeux.
-
 <iframe src="https://danielmargerit.github.io/images/posts/2022-12-23/aire.html" width="100%" height="600px" style="border: none;"></iframe>
 
 
