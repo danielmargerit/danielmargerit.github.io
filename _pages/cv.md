@@ -5,10 +5,16 @@ author_profile: true
 header:
   overlay_image: ../images/math-1974628_960_720.jpg
   overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
+header_links:
+  - title: "Télécharger le CV"
+    url: "../docs/cv/Daniel_MARGERIT_CV_2024.pdf"
 ---
 
 <!--- Linkedin link to be added -->
 
+## Téléchargement du CV
+
+[📄 Télécharger mon CV (2024) en PDF](../docs/cv/Daniel_MARGERIT_CV_2024.pdf)
 
 ## Industrial/Engineer jobs
 
