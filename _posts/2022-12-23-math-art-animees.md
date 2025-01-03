@@ -12,7 +12,7 @@ tags:
 use_math: true
 published: true
 author: "Daniel Margerit"
-credits: "HTML par Arnaud Chéritat"
+credits: "HTML et scripts par Arnaud Chéritat"
 originally_published: "2022-12-19"
 original_link: "https://jeux.lesmathsenscene.fr/avent-2022/surprises/S-D8CTBLuP9EKEgqSrrVTyvC6NCoOsuMBp/"
 ---
@@ -21,7 +21,7 @@ original_link: "https://jeux.lesmathsenscene.fr/avent-2022/surprises/S-D8CTBLuP9
 
 
 ### Remerciements
-- Mise en forme HTML réalisée par **Arnaud Chéritat**. Un grand merci pour son aide précieuse dans la création de cette surprise interactive !
+- Mise en forme HTML avec scripts réalisés par **Arnaud Chéritat**. 
 
 ---
 
