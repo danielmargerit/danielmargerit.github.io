@@ -4,11 +4,11 @@ main:
   - title: "Papers"
     url: /papers/
     
+  - title: "CV"
+    url: /cv/
+    
   - title: "Enseignements"
     url: /enseignements/
-
-  - title: "Topics"
-    url: /topics/
 
   - title: "Blog"
     url: /blog/
@@ -25,6 +25,5 @@ main:
   - title: "Activité"
     url: /activity/
 
-  - title: "CV"
-    url: /cv/
-    
+  - title: "Topics"
+    url: /topics/
